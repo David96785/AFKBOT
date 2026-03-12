@@ -8,7 +8,7 @@
   "server": {
     "ip": "DAL-SMP-1.aternos.me",
     "port": 59503,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "AFKBOT24/7"
     },
     "anti-afk": {
       "enabled": true,
