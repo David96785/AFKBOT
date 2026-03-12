@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "afkbot",
+    "password": "AFKBOT",
     "type": "offline"
   },
   "server": {
     "ip": "DAL-SMP-1.aternos.me",
     "port": 59503,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "AFKBOT24/7"
+      "password": "AFKBOT"
     },
     "anti-afk": {
       "enabled": true,
